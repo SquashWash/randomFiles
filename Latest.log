@@ -1,0 +1,346 @@
+
+[16:01:52.578] ------------------------------
+[16:01:52.582] MelonLoader v0.7.2 Open-Beta
+[16:01:52.583] OS: Windows 11
+[16:01:52.584] Hash Code: 09E2622405BA057EBDDA8F5A9CE473452BE7A9372274C1EA6CD43016C264C80E
+[16:01:52.584] ------------------------------
+[16:01:52.584] Game Type: Il2cpp
+[16:01:52.584] Game Arch: x64
+[16:01:52.584] ------------------------------
+[16:01:52.585] Command-Line: 
+[16:01:52.585] ------------------------------
+[16:01:52.586] Core::BasePath = D:\Program Files\Steam\steamapps\common\TheLongDark
+[16:01:52.586] Game::BasePath = D:\Program Files\Steam\steamapps\common\TheLongDark
+[16:01:52.587] Game::DataPath = D:\Program Files\Steam\steamapps\common\TheLongDark\tld_Data
+[16:01:52.587] Game::ApplicationPath = D:\Program Files\Steam\steamapps\common\TheLongDark\tld.exe
+[16:01:52.587] Runtime Type: net6
+[16:01:52.682] ------------------------------
+[16:01:52.683] Game Name: TheLongDark
+[16:01:52.683] Game Developer: Hinterland
+[16:01:52.685] Unity Version: 6000.0.60f1
+[16:01:52.685] Game Version: 2.60
+[16:01:52.685] ------------------------------
+
+[16:01:53.663] Preferences Loaded!
+
+[16:01:53.680] Loading UserLibs...
+[16:01:53.682] 0 UserLibs loaded.
+
+[16:01:53.683] Loading Plugins...
+[16:01:53.688] 0 Plugins loaded.
+
+[16:01:54.269] Loading Il2CppAssemblyGenerator...
+[16:01:54.304] [Il2CppAssemblyGenerator] Contacting RemoteAPI...
+[16:01:54.543] [Il2CppAssemblyGenerator] RemoteAPI.DumperVersion = null
+[16:01:54.545] [Il2CppAssemblyGenerator] RemoteAPI.ObfuscationRegex = null
+[16:01:54.546] [Il2CppAssemblyGenerator] RemoteAPI.MappingURL = null
+[16:01:54.546] [Il2CppAssemblyGenerator] RemoteAPI.MappingFileSHA512 = null
+[16:01:54.553] [Il2CppAssemblyGenerator] Using Cpp2IL Version: 2022.1.0-pre-release.21
+[16:01:54.553] [Il2CppAssemblyGenerator] Using Il2CppInterop Version = 1.5.1+dbaf825aab891ff1e1627bea691bde0a81d1ad98
+[16:01:54.553] [Il2CppAssemblyGenerator] Using Unity Dependencies Version = 6000.0.60
+[16:01:54.554] [Il2CppAssemblyGenerator] Using Deobfuscation Regex = null
+[16:01:54.554] [Il2CppAssemblyGenerator] Cpp2IL is up to date.
+[16:01:54.555] [Il2CppAssemblyGenerator] Cpp2IL.Plugin.StrippedCodeRegSupport is up to date.
+[16:01:54.555] [Il2CppAssemblyGenerator] UnityDependencies is up to date.
+[16:01:54.555] [Il2CppAssemblyGenerator] Checking GameAssembly...
+[16:01:54.980] [Il2CppAssemblyGenerator] Assembly is up to date. No Generation Needed.
+
+[16:01:54.982] Loading Mods...
+[16:01:55.060] ------------------------------
+[16:01:55.064] Melon Assembly loaded: '.\Mods\AfflictionComponent.dll'
+[16:01:55.065] SHA256 Hash: '4C1910A0109410DBEEC46DBB43DF03B3617A01448E5FC818547043E7F82A2471'
+[16:01:55.067] Melon Assembly loaded: '.\Mods\AfflictionsAndBuffs.dll'
+[16:01:55.068] SHA256 Hash: '765843BC1466EB63879E115D234B997AC7146DF2EF1D151D4EABA93EC92D21B8'
+[16:01:55.070] Melon Assembly loaded: '.\Mods\AmbientLights.dll'
+[16:01:55.070] SHA256 Hash: '9FB5024CC7A7138919E2EC7B469A2D369ED6E3F4A06F90F53F9E1D2E5FDBBB1C'
+[16:01:55.072] Melon Assembly loaded: '.\Mods\AnimalRespawnTimeMod.dll'
+[16:01:55.072] SHA256 Hash: 'AD8A1F71BE0EDFB38150CD80C9B3108553E063D70E980849944BAFE3A277D4D7'
+[16:01:55.074] Melon Assembly loaded: '.\Mods\AurOS.dll'
+[16:01:55.074] SHA256 Hash: '073FA889047EF744AF602060884A91668FC4EC8D28A583ABCBD2D681B50A2DEA'
+[16:01:55.077] Melon Assembly loaded: '.\Mods\CatchColdMod.dll'
+[16:01:55.077] SHA256 Hash: 'F7F5961A2DC88F1C3551E038636A4DE30EF35339F22A24DE3D3C772251F0AB58'
+[16:01:55.080] Melon Assembly loaded: '.\Mods\ChangeCustomSettings.dll'
+[16:01:55.080] SHA256 Hash: '5D6604D91E2306ECBFC71A7B310B090DAC33384CD634DF9A03AC90EDCDD40C47'
+[16:01:55.083] Melon Assembly loaded: '.\Mods\ChooseStartingGearRedux.dll'
+[16:01:55.083] SHA256 Hash: '394FFEEA693CD91613C42C18F8977DDC3A818AC92FB20757D073CF4E68B884E0'
+[16:01:55.085] Melon Assembly loaded: '.\Mods\ComplexLogger.dll'
+[16:01:55.086] SHA256 Hash: '4D99629854543BF0309FA7EA00CCAA4192CC2957FD045F5A45E25D9D6AEB9F76'
+[16:01:55.087] Melon Assembly loaded: '.\Mods\ConditionalConditionLoss.dll'
+[16:01:55.088] SHA256 Hash: '6ECC82862A1F3A5F81523793D38D784D648845C8653BE63FC7302FED046F991A'
+[16:01:55.090] Melon Assembly loaded: '.\Mods\ContainerRespawnTweaker.dll'
+[16:01:55.090] SHA256 Hash: 'F0E6579E86598BA3B7D345CE7287CDDD61FD04CE8CED3580963E392ACD15999F'
+[16:01:55.092] Melon Assembly loaded: '.\Mods\DeveloperConsole.dll'
+[16:01:55.092] SHA256 Hash: '56C651545487B5B60BB1516664EF9E6C49D4CF3086727784C860B7DBAF55BC30'
+[16:01:55.095] Melon Assembly loaded: '.\Mods\FoodsByCalorieWaltz.dll'
+[16:01:55.095] SHA256 Hash: '9F365DF568A230A8ADA8D194C5755EF47DB2CD7367C0CC13607C1700A2C50920'
+[16:01:55.098] Melon Assembly loaded: '.\Mods\FoodTweaker.dll'
+[16:01:55.098] SHA256 Hash: '13FFA80FA485F05692F78DA0C45C4E466F2DA2F330FB8816F75AED63DF7F4472'
+[16:01:55.102] Melon Assembly loaded: '.\Mods\HungerRevamped.dll'
+[16:01:55.103] SHA256 Hash: 'F384EECF13B60084533A4F243693865A6E8637D0280D6510E3FA63A0D0163F18'
+[16:01:55.104] Melon Assembly loaded: '.\Mods\ImprovedAfflictions.dll'
+[16:01:55.105] SHA256 Hash: 'E90CD191268F6F81F9783C30D25760C021B2012F5CD82C06969EFAF121660391'
+[16:01:55.106] Melon Assembly loaded: '.\Mods\ImprovedClothing.dll'
+[16:01:55.106] SHA256 Hash: 'E84B15347D46F2B1619BFAA322D3F5C122D9D49D1680566C350741A1A9EF8538'
+[16:01:55.109] Melon Assembly loaded: '.\Mods\InterloperHudPro.dll'
+[16:01:55.109] SHA256 Hash: '9122010C94334BE1E6BD58EA3AAAE7CD5D031F4D3C7EBD028D61C018E355CD3B'
+[16:01:55.123] Melon Assembly loaded: '.\Mods\MajorMiseries.dll'
+[16:01:55.124] SHA256 Hash: '3A9BC7D1541721698ACC1E41F2F0C8E9ABCA6CA4B7994407B1DF226209D8D99C'
+[16:01:55.128] Melon Assembly loaded: '.\Mods\Minor_Miseries.dll'
+[16:01:55.128] SHA256 Hash: '994495B134E950A7CE0AE54DAC3B0D067ADC2D11EDF312CA59054D8E8A15CD75'
+[16:01:55.135] Melon Assembly loaded: '.\Mods\ModComponent.dll'
+[16:01:55.135] SHA256 Hash: '5C6EF53C1A075D3D300EF674A273F3A69A8CDE7505594F12657A900B94D6AC6B'
+[16:01:55.137] Melon Assembly loaded: '.\Mods\ModData.dll'
+[16:01:55.137] SHA256 Hash: '1DF17E85C2F03A7D703D08358656A07F010568FA70A3096C3FAE761C5F138A8E'
+[16:01:55.140] Melon Assembly loaded: '.\Mods\ModSettings.dll'
+[16:01:55.140] SHA256 Hash: 'EB693B22D1ABC9EC3BB1D31F24AA21FFBB921296772313866F897D74EBD2E3F6'
+[16:01:55.142] Melon Assembly loaded: '.\Mods\Moment.dll'
+[16:01:55.142] SHA256 Hash: '3CE289B5EEEA8E83AF6046157EE630AC6F130BC96C8CA1A8EA20209B9DFA34F2'
+[16:01:55.144] Melon Assembly loaded: '.\Mods\MovableContainersReborn.dll'
+[16:01:55.144] SHA256 Hash: '5C3B5EA3FF87C87DE0CFBDB35F4026C71A4BF1C46E9FD994001892D695412534'
+[16:01:55.146] Melon Assembly loaded: '.\Mods\PainComponent.dll'
+[16:01:55.146] SHA256 Hash: 'ED9A4C42EDA51132A8573ABEE3F7AB36E90421AC4570AF6008C5A631071AF044'
+[16:01:55.149] Melon Assembly loaded: '.\Mods\PerfectPlacement.dll'
+[16:01:55.149] SHA256 Hash: '9B7809EFF501D7F8F99CD66AF93463296A6284428EC6206E68AF0D5C1C749783'
+[16:01:55.151] Melon Assembly loaded: '.\Mods\PlantHarvestTweaker.dll'
+[16:01:55.152] SHA256 Hash: '7BAC5186780E00D68D448786B4A0CD0E196B61BD637AAEB08CD36A13193A3570'
+[16:01:55.154] Melon Assembly loaded: '.\Mods\PredatorSpawnSelector.dll'
+[16:01:55.155] SHA256 Hash: '500CEAE0A4CE5DE739CB17F1FE1BF1C16C6A1A6F7D2210AA38A7EA90B582597D'
+[16:01:55.156] Melon Assembly loaded: '.\Mods\QoLStaminaStays.dll'
+[16:01:55.157] SHA256 Hash: '9E0B78FC8008A7CB30EB6B61452C4909E418E05F8B1C20E1F6DE93638B07D4AC'
+[16:01:55.192] Melon Assembly loaded: '.\Mods\SafehouseCustomizationPlus.dll'
+[16:01:55.192] SHA256 Hash: 'BA45893C2F20F33C17D1149D302A8397A6B1331EF9F9DF1D85D68AFEE09229AD'
+[16:01:55.195] Melon Assembly loaded: '.\Mods\ScavengeTweaks.dll'
+[16:01:55.195] SHA256 Hash: 'BB17552026611710D4E842DD49D9BE9D6091E26CF09B6EDB03620F7F4FE88DDA'
+[16:01:55.223] Melon Assembly loaded: '.\Mods\SeamlessInteriors.dll'
+[16:01:55.223] SHA256 Hash: '14CD198A1E8FE25E150F592BC98E0B0654E8145E81DFE398CF1F99194C193C80'
+[16:01:55.434] Melon Assembly loaded: '.\Mods\TheLongDoom.dll'
+[16:01:55.435] SHA256 Hash: '94FE0523488280C98C6BE4DA87D0FD62D9DE53B2C98C64259B58849E1688AA6C'
+[16:01:55.442] Melon Assembly loaded: '.\Mods\TldHacks.dll'
+[16:01:55.442] SHA256 Hash: '52E704058358C34491F0AEE80C59B654E2CC9CD183817102C3440CA9577E16BA'
+[16:01:55.446] Melon Assembly loaded: '.\Mods\TrailKit.dll'
+[16:01:55.446] SHA256 Hash: '5F38079240ECBF2C10F827BFCE87921C95BF7725C6F8C70E8C8290DB85FF05A8'
+
+[16:01:56.093] ------------------------------
+[16:01:56.093] ChangeCustomSettings v1.1.0
+[16:01:56.094] by Digitalzombie
+[16:01:56.094] Assembly: ChangeCustomSettings.dll
+[16:01:56.094] ------------------------------
+[16:01:56.099] ------------------------------
+[16:01:56.100] Conditional Condition Loss v1.0.0
+[16:01:56.100] by Fuar
+[16:01:56.100] Assembly: ConditionalConditionLoss.dll
+[16:01:56.100] ------------------------------
+[16:01:56.105] ------------------------------
+[16:01:56.106] ModData v1.6.5
+[16:01:56.106] by STBlade & MonsieurMeh
+[16:01:56.106] Assembly: ModData.dll
+[16:01:56.106] ------------------------------
+[16:01:56.111] ------------------------------
+[16:01:56.111] ModSettings v2.2.5
+[16:01:56.111] by Digitalzombie, zeobviouslyfakeacc
+[16:01:56.112] Assembly: ModSettings.dll
+[16:01:56.112] ------------------------------
+[16:01:56.117] ------------------------------
+[16:01:56.117] AmbientLights v3
+[16:01:56.117] by Thekillergreece
+[16:01:56.117] Assembly: AmbientLights.dll
+[16:01:56.118] ------------------------------
+[16:01:56.123] ------------------------------
+[16:01:56.123] AnimalRespawnTimeMod v1.4.0
+[16:01:56.123] by BaltaZar
+[16:01:56.123] Assembly: AnimalRespawnTimeMod.dll
+[16:01:56.123] ------------------------------
+[16:01:56.128] ------------------------------
+[16:01:56.128] AurOS v1.0.0
+[16:01:56.129] by MonsieurMeh
+[16:01:56.129] Assembly: AurOS.dll
+[16:01:56.129] ------------------------------
+[16:01:56.134] ------------------------------
+[16:01:56.134] ChooseStartingGearRedux v1.1.0
+[16:01:56.134] by moosemeat
+[16:01:56.135] Assembly: ChooseStartingGearRedux.dll
+[16:01:56.136] ------------------------------
+[16:01:56.142] ------------------------------
+[16:01:56.142] ComplexLogger v1.0.8
+[16:01:56.142] by The Illusion
+[16:01:56.142] Assembly: ComplexLogger.dll
+[16:01:56.142] ------------------------------
+[16:01:56.148] ------------------------------
+[16:01:56.148] Affliction Component v1.4.2
+[16:01:56.148] by Fuar, Deadman, EtherSystem
+[16:01:56.148] Assembly: AfflictionComponent.dll
+[16:01:56.148] ------------------------------
+[16:01:56.154] ------------------------------
+[16:01:56.154] CatchColdMod v1.2.1
+[16:01:56.154] by BaltaZar
+[16:01:56.155] Assembly: CatchColdMod.dll
+[16:01:56.155] ------------------------------
+[16:01:56.160] ------------------------------
+[16:01:56.160] Container Respawn Tweaker v1.0.1
+[16:01:56.160] by Bloodtroo
+[16:01:56.160] Assembly: ContainerRespawnTweaker.dll
+[16:01:56.161] ------------------------------
+[16:01:56.166] ------------------------------
+[16:01:56.166] DeveloperConsole v1.8.8
+[16:01:56.166] by Digitalzombie, FINDarkside, zeobviouslyfakeacc, ds5678
+[16:01:56.166] Assembly: DeveloperConsole.dll
+[16:01:56.167] ------------------------------
+[16:01:56.172] ------------------------------
+[16:01:56.172] FoodTweaker v2.2.1
+[16:01:56.172] by Romain, GruffCassquatch, Deus13, ttr, Phaedrus, The Illusion
+[16:01:56.172] Assembly: FoodTweaker.dll
+[16:01:56.172] ------------------------------
+[16:01:56.177] ------------------------------
+[16:01:56.177] FoodsByCalorieWaltz v1.0.13
+[16:01:56.178] by Waltz
+[16:01:56.178] Assembly: FoodsByCalorieWaltz.dll
+[16:01:56.178] ------------------------------
+[16:01:56.183] ------------------------------
+[16:01:56.183] HungerRevamped v2.2.2
+[16:01:56.183] by BaltaZar
+[16:01:56.184] Assembly: HungerRevamped.dll
+[16:01:56.184] ------------------------------
+[16:01:56.189] ------------------------------
+[16:01:56.189] Improved Clothing v1.2.2
+[16:01:56.189] by Fuar
+[16:01:56.190] Assembly: ImprovedClothing.dll
+[16:01:56.190] ------------------------------
+[16:01:56.196] ------------------------------
+[16:01:56.196] InterloperHudPro v1.5.0
+[16:01:56.196] by EtherSystem
+[16:01:56.197] Assembly: InterloperHudPro.dll
+[16:01:56.197] ------------------------------
+[16:01:56.202] ------------------------------
+[16:01:56.202] ModComponent v7.1.0
+[16:01:56.202] by STBlade
+[16:01:56.202] Assembly: ModComponent.dll
+[16:01:56.203] ------------------------------
+[16:01:56.208] ------------------------------
+[16:01:56.209] AfflictionsAndBuffs v1.7.1
+[16:01:56.210] by LittleWolfStorm
+[16:01:56.210] Assembly: AfflictionsAndBuffs.dll
+[16:01:56.210] ------------------------------
+[16:01:56.216] ------------------------------
+[16:01:56.216] MajorMiseries v1.3.2
+[16:01:56.216] by EtherSystem, FlowerField
+[16:01:56.217] Assembly: MajorMiseries.dll
+[16:01:56.217] ------------------------------
+[16:01:56.222] ------------------------------
+[16:01:56.222] Minor Miseries v1.5.12
+[16:01:56.222] by EtherSystem, Flower Field
+[16:01:56.222] Assembly: Minor_Miseries.dll
+[16:01:56.222] ------------------------------
+[16:01:56.228] ------------------------------
+[16:01:56.228] Moment v1.0.8
+[16:01:56.228] by BA
+[16:01:56.228] Assembly: Moment.dll
+[16:01:56.228] ------------------------------
+[16:01:56.233] ------------------------------
+[16:01:56.233] MovableContainersReborn v1.0.7
+[16:01:56.233] by pineapple54
+[16:01:56.233] Assembly: MovableContainersReborn.dll
+[16:01:56.234] ------------------------------
+[16:01:56.239] ------------------------------
+[16:01:56.239] PainComponent v1.0.1
+[16:01:56.239] by Fuar
+[16:01:56.239] Assembly: PainComponent.dll
+[16:01:56.239] ------------------------------
+[16:01:56.244] ------------------------------
+[16:01:56.244] Improved Afflictions v3.3.0
+[16:01:56.244] by Fuar
+[16:01:56.245] Assembly: ImprovedAfflictions.dll
+[16:01:56.245] ------------------------------
+[16:01:56.250] ------------------------------
+[16:01:56.250] PerfectPlacement v0.39.2
+[16:01:56.250] by drek932
+[16:01:56.250] Assembly: PerfectPlacement.dll
+[16:01:56.251] ------------------------------
+[16:01:56.255] ------------------------------
+[16:01:56.256] PlantHarvestTweaker v1.7.1
+[16:01:56.256] by Marcy, Jods_Its
+[16:01:56.256] Assembly: PlantHarvestTweaker.dll
+[16:01:56.256] ------------------------------
+[16:01:56.263] ------------------------------
+[16:01:56.263] PredatorSpawnSelector v1.5.0
+[16:01:56.263] by moosemeat
+[16:01:56.263] Assembly: PredatorSpawnSelector.dll
+[16:01:56.263] ------------------------------
+[16:01:56.268] ------------------------------
+[16:01:56.268] QoLStaminaStays v1.1.0
+[16:01:56.268] by Danileros
+[16:01:56.269] Assembly: QoLStaminaStays.dll
+[16:01:56.269] ------------------------------
+[16:01:56.274] ------------------------------
+[16:01:56.274] SafehouseCustomizationPlus v1.9.8
+[16:01:56.275] by Waltz
+[16:01:56.275] Assembly: SafehouseCustomizationPlus.dll
+[16:01:56.275] ------------------------------
+[16:01:56.281] ------------------------------
+[16:01:56.281] Scavenge Tweaks v1.5.0
+[16:01:56.281] by NnicolaeN
+[16:01:56.282] Assembly: ScavengeTweaks.dll
+[16:01:56.282] ------------------------------
+[16:01:56.287] ------------------------------
+[16:01:56.287] SeamlessInteriors v2.5.0
+[16:01:56.287] by Hamsi Buglama
+[16:01:56.287] Assembly: SeamlessInteriors.dll
+[16:01:56.287] ------------------------------
+[16:01:56.295] ------------------------------
+[16:01:56.295] TheLongDoom v1.0.1
+[16:01:56.295] by MonsieurMeh
+[16:01:56.295] Assembly: TheLongDoom.dll
+[16:01:56.295] ------------------------------
+[16:01:56.301] ------------------------------
+[16:01:56.301] TldHacks v12.9.0
+[16:01:56.301] by user
+[16:01:56.302] Assembly: TldHacks.dll
+[16:01:56.302] ------------------------------
+[16:01:56.308] ------------------------------
+[16:01:56.308] TrailKit v0.2.5
+[16:01:56.308] by Raptor Studios
+[16:01:56.308] Assembly: TrailKit.dll
+[16:01:56.308] ------------------------------
+[16:01:56.308] ------------------------------
+[16:01:56.309] 36 Mods loaded.
+
+[16:01:57.787] [Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[16:02:00.312] [Il2CppInterop] Registered mono type MelonLoader.Support.MonoEnumeratorWrapper in il2cpp domain
+[16:02:00.400] Support Module Loaded: D:\Program Files\Steam\steamapps\common\TheLongDark\MelonLoader\Dependencies\SupportModules\Il2Cpp.dll
+[16:02:00.404] [Il2CppInterop] Method System.Collections.Generic.List`1[AfflictionComponent.Components.CustomAffliction] GetAfflictionsOfType(System.Type) on type AfflictionComponent.Components.AfflictionManager has unsupported return type System.Collections.Generic.List`1[AfflictionComponent.Components.CustomAffliction]
+[16:02:00.406] [Il2CppInterop] Registered mono type AfflictionComponent.Components.AfflictionManager in il2cpp domain
+[16:02:00.409] [Il2CppInterop] Registered mono type AurOS.InputContext in il2cpp domain
+[16:02:00.412] [Il2CppInterop] Registered mono type ChangeCustomSettings.CopyButton in il2cpp domain
+[16:02:00.418] [Il2CppInterop] Registered mono type CalorieWaltz.CollectibleCandleComponent in il2cpp domain
+[16:02:00.474] [Il2CppInterop] Registered mono type ModSettings.ModSettingsGUI in il2cpp domain
+[16:02:00.475] [Il2CppInterop] Method Single GetTotalPainLevelForPainAtLocations(Il2Cpp.AfflictionBodyArea[], Boolean) on type PainComponent.Component.PainManager has unsupported parameter Il2Cpp.AfflictionBodyArea[] locations of type Il2Cpp.AfflictionBodyArea[]
+[16:02:00.477] [Il2CppInterop] Registered mono type PainComponent.Component.PainManager in il2cpp domain
+[16:02:00.480] [Il2CppInterop] Registered mono type SCPlus.SCPlusLargeObject in il2cpp domain
+[16:02:00.485] [Il2CppInterop] Registered mono type SCPlus.SCPlusCarryable in il2cpp domain
+[16:02:00.487] [Il2CppInterop] Registered mono type SCPlus.SCPlusDecorationDetector in il2cpp domain
+[16:02:00.495] [Il2CppInterop] Registered mono type SCPlus.SCPlusSimpleFuelTank in il2cpp domain
+[16:02:02.126] [Il2CppInterop] Registered mono type ModSettings.DescriptionHolder in il2cpp domain
+[16:02:11.091] [TldHacks] AccessTools.Method: Could not find method for type Il2Cpp.Lock and name OnDestroy and parameters 
+[16:02:11.091] [TldHacks] AccessTools.Method: Could not find method for type Il2Cpp.Lock and name OnDisable and parameters 
+[16:02:11.092] [TldHacks] AccessTools.Method: Could not find method for type Il2Cpp.PlayerClimbRope and name Awake and parameters 
+[16:02:11.093] [TldHacks] AccessTools.Method: Could not find method for type Il2Cpp.PlayerClimbRope and name Awake and parameters 
+[16:02:11.093] [TldHacks] AccessTools.Method: Could not find method for type Il2Cpp.PlayerClimbRope and name Awake and parameters 
+[16:02:11.108] [TldHacks] AccessTools.Method: Could not find method for type Il2Cpp.PlayerClimbRope and name OnDestroy and parameters 
+[16:02:11.109] [TldHacks] AccessTools.Method: Could not find method for type Il2Cpp.PlayerClimbRope and name OnDisable and parameters 
+[16:02:11.978] Conditional Condition Loss is online!
+[16:02:11.980] ModData Initialized - 1.6.5
+[16:02:12.000] [AnimalRespawnTimeMod] Initialized!
+[16:02:12.002] [AurOS] Initialized Successfully!
+[16:02:12.034] [CatchColdMod] CatchColdMod initialized
+[16:02:12.046] Container Respawn Tweaker Loaded
+[16:02:12.102] [HungerRevamped] Version 2.2.2 loaded
+[16:02:12.103] Improved Clothing is online!
+[16:02:12.110] [InterloperHudPro] Interloper HUD PRO Starting
+[16:02:12.111] [ModComponent] Release Compilation
+[16:02:12.174] [Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[16:02:12.185] [MajorMiseries] Initialized.
+[16:02:12.203] [Minor_Miseries] Initialized.
+[16:02:12.330] [MovableContainersReborn] MovableContainersReborn 1.0.7 by pineapple54, official download: https://www.nexusmods.com/thelongdark/mods/71
+[16:02:12.332] Pain Component is online.
+[16:02:12.334] Improved Afflictions is online.
+[16:02:12.367] [PerfectPlacement] Settings: mod on (key End), liquids together on, perfect blocks on, push out on, room check on (key L), keys: pose Alpha5 (unstable too), group Alpha6, take on top F1, gather Alpha7, shape Alpha8, remember shapes F2 (on), more shapes off, other items Alpha9, dock Alpha0, stow R, turning mode F3, turn each F5; free turn off, take what lies on top on, group weight on, group up to 48, contact on, gap 1 mm, other items on top only, item radius 50 mm, walls on (100 mm), room on, detailed log off
+[16:02:12.377] [QoLStaminaStays] DebugManager Proxy is disabled
